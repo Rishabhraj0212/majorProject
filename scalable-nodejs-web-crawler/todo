@@ -1,0 +1,13 @@
+# TO-DO LIST
+
+'/' - Completed
+'P' - Pending
+'X' - Skipped
+
+#Install REDIS [/]
+#Install NODEJS [/]
+#Create Crawling Function using X-Ray [/]
+#Implement Queue for URLs [/]
+#Fix the asynch file handling of urls append
+
+

@@ -1,0 +1,32 @@
+{
+  "name": "scalable-nodejs-web-crawler",
+  "version": "1.0.0",
+  "description": "Fast, scalable & distributed NodeJS Web-Crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stacksapien/scalable-nodejs-web-crawler.git"
+  },
+  "keywords": [
+    "nodejs",
+    "web-crawler",
+    "crawler"
+  ],
+  "author": "Vishal Verma (stacksapien)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stacksapien/scalable-nodejs-web-crawler/issues"
+  },
+  "homepage": "https://github.com/stacksapien/scalable-nodejs-web-crawler#readme",
+  "dependencies": {
+    "bee-queue": "^1.2.3",
+    "uuid": "^7.0.2",
+    "x-ray": "^2.3.4"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
